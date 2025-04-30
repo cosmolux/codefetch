@@ -45,10 +45,10 @@ There is a <b>very clever</b> service now available for programmers called Codef
 Bad logo, <b>good</b> code search site: codefetch{<br />
 <br />
 <!--<a href="http://dalibor.textdriven.com/blog/?p=115">-->Dalibor Dvorski<br />
-This has to be the <b>coolest thing</b> I’ve seen <b>since Google</b> first came on the web – of course for programmers.  Codefetch allows you to search for code snippets...<br />
+This has to be the <b>coolest thing</b> I’ve seen <b>since Google</b><br />
 <br />
 <a href="https://web.archive.org/web/20080324115755/https://perl6now.com/fom-serve/cache/1.html"/>Scott Walters</a> author of <a href="http://www.amazon.com/exec/obidos/ASIN/1590593952/codefetmsearc-20">Perl 6 Now</a><br />
-http://perl.codefetch.com searches examples from piles of Perl books, including Perl 6 Now! Try for example http://perl.codefetch.com/search?qy=delegate&lang=perl...I'm still <b>grooving on how neat</b> this is.<br />
+perl.codefetch.com searches examples from piles of Perl books, including Perl 6 Now! Try for example perl.codefetch.com/search?qy=delegate&lang=perl1 I'm still <b>grooving on how neat</b> this is.<br />
 <br />
 <!--
 <a href="http://www.buffalosoft.com/2006/02/google-for-programmers-more-than-just.html">Buffalosoft</a><br />
